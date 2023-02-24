@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.dylib filter=lfs diff=lfs merge=lfs -text
+'C:/Users/OSMAN/OneDrive/Masaüstü/RunnerV2/Library/PackageCache/com.unity.burst@1.7.4/.Runtime/hostmac/lld' filter=lfs diff=lfs merge=lfs -text
+C:/Users/OSMAN/OneDrive/Masaüstü/RunnerV2/Library/PackageCache/com.unity.burst@1.7.4/.Runtime/hostmac/lld filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.7.4/.Runtime/hostmac/lld filter=lfs diff=lfs merge=lfs -text
